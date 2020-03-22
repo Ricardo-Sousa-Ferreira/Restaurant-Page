@@ -1,0 +1,23 @@
+{
+  "name": "restaurant-page",
+  "version": "1.0.0",
+  "description": "Odin Project Restaurant Page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lepracone/Restaurant-Page.git"
+  },
+  "author": "Ricardo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lepracone/Restaurant-Page/issues"
+  },
+  "homepage": "https://github.com/Lepracone/Restaurant-Page#readme",
+  "devDependencies": {
+    "webpack": "^4.42.0",
+    "webpack-cli": "^3.3.11"
+  }
+}
